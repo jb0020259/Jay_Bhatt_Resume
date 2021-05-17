@@ -9,7 +9,7 @@ Location   - Pune, MH, India
 I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
 ### Education  
-**Bachelor of Engineering**
+**Bachelor of Engineering**  
 Electronics & Communications (Throughout Distinction) (>70%)  
 Nirma Institute of Technology, Ahmedabad - Gujarat University  
 
