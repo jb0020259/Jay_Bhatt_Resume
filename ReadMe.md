@@ -10,7 +10,7 @@ I am scrum *certified software product owner* with more than 16 years of total e
 
 ### Work experience  
 #### 1. Product Owner, EXFO, Pune  
-**From:** June 2015   **To:** Till Date  
+###### From: June 2015   To: Till Date  
 - Design, develop and support data dashboards and reporting solutions to meet the business needs
 - Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
 - Review and share the dashboards/reports in PDF/Excel/HTML formats with stakeholders.
