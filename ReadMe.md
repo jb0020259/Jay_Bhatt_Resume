@@ -3,6 +3,7 @@
 Mobile - +91 844 636 5003 [Whatsapp](http://wa.me/918446365003)  
 Email - [jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
 Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
+Online work - [Website](https://nifty-pe-ratio.com)  [Project](https://github.com/jb0020259/Google_Analytics_Case_Study_1)
 Location - [Pune, MH, India](https://www.google.co.in/maps/place/Pune,+Maharashtra/@18.5245649,73.7228775,11z)
 
 ### 2. Objective  
