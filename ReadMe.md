@@ -23,6 +23,7 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 - (Open for other domains)  
 
 ### 5. Skills
+
 | Skill                                | Proficiency Level |  
 |--------------------------------------|-------------------|  
 | Data Analytics / BI / Reporting      | ##########        |  
