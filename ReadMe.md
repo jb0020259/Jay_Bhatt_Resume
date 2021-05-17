@@ -5,14 +5,26 @@ Email     - jai.bhatt@gmail.com
 Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
 Location   - Pune, MH, India 
 
-### Resume objective  
+### Objective  
 I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
-### Education
-Bachelor of Engineering
+### Education  
+Bachelor of Engineering  
 Electronics & Communications (Throughout Distinction) (>70%) 
-Nirma Institute of Technology, Ahmedabad - Gujarat University
+Nirma Institute of Technology, Ahmedabad - Gujarat University  
 
+### Domain experience
+Data Analytics  
+Business Intelligence  
+Reporting  
+Telecom  
+(Open for other domains)  
+
+### Skills
+
+### Professional Certification
+Year 2021 - Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
+Year 2017 - Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com/badges/1c5aa060-49b6-4103-ae20-45e99eb9d13e/linked_in)
 
 ### Work experience  
 #### 1. Product Owner, EXFO, Pune  
@@ -74,3 +86,18 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 - Maintenance of Fiber on FMS - Agilent technologies, Logistics on SAP 
 - Alarm monitoring on Clarity OSS
 
+### Achievements
+- Promoted to Senior System Analyst role due to outstanding contribution in conceptualizing a special custom business analytics product 
+- Multiple awards for the valuable contribution made in evolving the cloud Enterprise Application product EXFO Connect at EXFO  
+- Special Thank You award for the first cloud product delivery in EXFO 
+- Special Award for highest level of contribution in Domain Management Platform across whole British Telecom in Tech Mahindra Ltd. 
+- Awarded Valuable Team Player for Starhub E2E Testing Project in Tech Mahindra 
+- Awarded Valuable Team Player for NuNCAS CIT Project in Tech Mahindra 
+- Special Award for excellent contribution to the NuNCAS Component Integration Testing project & Starhub E2E Testing Project in Tech Mahindra 
+- Highly appraised for off shoring the project in very short time period under high pressure in Tech Mahindra
+
+### Notice
+2 Months
+
+### Reference
+Available on request
