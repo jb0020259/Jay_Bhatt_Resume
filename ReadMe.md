@@ -24,7 +24,7 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 
 ### 5. Skills
 Skill | Proficiency Level  
----------------------------------------- | ----------  
+----------------------------------------- | ----------  
 Data Analytics / BI / Reporting           | ##########  
 Excel / Tableau / Sisense / Power BI      | #########  
 SQL / R                                   | #######  
