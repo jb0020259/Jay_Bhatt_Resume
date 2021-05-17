@@ -1,9 +1,9 @@
 ### Contact
 Jay Bhatt  
-Mobile    - +91 844 636 5003  
-Email     - [jai.bhatt@gmail.com](jai.bhatt@gmail.com)  
-Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
-Location   - Pune, MH, India 
+[+91 844 636 5003](http://wa.me/918446365003)
+[jai.bhatt@gmail.com](jai.bhatt@gmail.com)  
+[Linked In](https://www.linkedin.com/in/jaybbhatt/)  
+Pune, MH, India 
 
 ### Objective  
 I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
