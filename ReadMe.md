@@ -23,20 +23,20 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 - (Open for other domains)  
 
 ### Skills
-Skill | Proficiency Level
------------------------------------------|-----------
-Data Analytics / BI / Reporting           |##########
+Skill | Proficiency Level  
+-----------------------------------------|-----------  
+Data Analytics / BI / Reporting           |##########  
 Excel / Tableau / Sisense / Power BI      |#########  
 SQL / R                                   |#######  
 AWS / Cloud applications                  |#########  
 REST API                                  |######  
 Agile/SAFe                                |#########  
-Requirement Management                    |##########  
+Requirement Management                    |##########   
 Presentation                              |##########  
-Quick Learning                            |########## 
-Problem Solving                           |######### 
-Business Acumen                           |########## 
-Collaboration                             |#########
+Quick Learning                            |##########  
+Problem Solving                           |#########  
+Business Acumen                           |##########  
+Collaboration                             |#########  
 
 ### Professional Certification
 Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
