@@ -37,8 +37,8 @@ Business Acumen                           ##########
 Collaboration                             #########
 
 ### Professional Certification
-Year 2021 - Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
-Year 2017 - Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com/badges/1c5aa060-49b6-4103-ae20-45e99eb9d13e/linked_in)
+Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
+Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com/badges/1c5aa060-49b6-4103-ae20-45e99eb9d13e/linked_in)
 
 ### Work experience  
 #### 1. Product Owner, EXFO, Pune  
