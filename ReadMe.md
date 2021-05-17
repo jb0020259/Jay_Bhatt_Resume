@@ -1,15 +1,16 @@
 ### Contact Me
-Jay Bhatt
-Address   - Pune, MH, India  
+Jay Bhatt  
+Location   - Pune, MH, India  
 Mobile    - +91 844 636 5003  
 Email     - jai.bhatt@gmail.com   
 Linked In - https://www.linkedin.com/in/jaybbhatt/  
   
 ### Resume objective  
-I am scrum **certified software product owner** with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
+I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
 ### Work experience  
-####1. Product Owner, EXFO, Pune  
+**####1. Product Owner, EXFO, Pune  **
+**From:** June 2015   **To:** Till Date  
 - Design, develop and support data dashboards and reporting solutions to meet the business needs
 - Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
 - Review and share the dashboards/reports in PDF/Excel/HTML formats with stakeholders.
@@ -24,5 +25,6 @@ I am scrum **certified software product owner** with more than 16 years of total
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
 
 ####2. Quality Assurance Lead, EXFO, Pune  
+
 ####3. Quality Assurance Lead, Tech Mahindra Ltd., Bangalore  
 ####4. Media Convergence Node In-charge, Junagadh, Gujarat  
