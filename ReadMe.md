@@ -1,3 +1,3 @@
 # Jay Bhatt
-## Product Owner
-### Total Experience - 16+ years
+Product Owner
+Total Experience - 16+ years
