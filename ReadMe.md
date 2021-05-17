@@ -10,7 +10,7 @@ I am scrum *certified software product owner* with more than 16 years of total e
 
 ### Education  
 Bachelor of Engineering  
-Electronics & Communications (Throughout Distinction) (>70%) 
+Electronics & Communications (Throughout Distinction) (>70%)  
 Nirma Institute of Technology, Ahmedabad - Gujarat University  
 
 ### Domain experience
