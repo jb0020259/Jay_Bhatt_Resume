@@ -6,7 +6,7 @@ Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)
 Location - [Pune, MH, India](https://www.google.co.in/maps/place/Pune,+Maharashtra/@18.5245649,73.7228775,11z)
 
 ### Objective  
-I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
+I am *scrum certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
 ### Education  
 **Bachelor of Engineering**  
