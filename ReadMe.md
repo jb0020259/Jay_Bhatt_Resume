@@ -1,7 +1,7 @@
 ### Contact
 Jay Bhatt  
 Mobile    - +91 844 636 5003  
-Email     - jai.bhatt@gmail.com   
+Email     - [jai.bhatt@gmail.com](jai.bhatt@gmail.com   )
 Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
 Location   - Pune, MH, India 
 
