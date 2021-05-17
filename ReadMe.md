@@ -10,7 +10,7 @@ I am scrum *certified software product owner* with more than 16 years of total e
 
 ### Work experience  
 #### 1. Product Owner, EXFO, Pune  
-###### From: June 2015   To: Till Date  
+##### From: June 2015   To: Till Date  
 - Design, develop and support data dashboards and reporting solutions to meet the business needs
 - Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
 - Review and share the dashboards/reports in PDF/Excel/HTML formats with stakeholders.
@@ -24,7 +24,46 @@ I am scrum *certified software product owner* with more than 16 years of total e
 - Participate in feasibility studies and high level architectural assessments and estimation
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
 
-####2. Quality Assurance Lead, EXFO, Pune  
+#### 2. Quality Assurance Lead, EXFO, Pune  
+##### From: July 2011   To: June 2015  
+- Responsible for overall quality of the EXFO Connect a cloud based PaaS product
+- Leading the team of independent team members doing functional and non-functional testing
+- Leading the Test Automation efforts
+- Preparing test strategy, test plan according to the business requirements
+- Preparing requirement traceability matrix to ensure 100% coverage
+- Preparing the test efforts evaluation and overlooking the test execution
+- Certifying the overall product quality before all customer releases
 
-####3. Quality Assurance Lead, Tech Mahindra Ltd., Bangalore  
-####4. Media Convergence Node In-charge, Junagadh, Gujarat  
+#### 3. Quality Assurance Lead, Tech Mahindra Ltd., Bangalore  
+##### From: August 2006   To: June 2011
+- Leading a team of 39 members doing end to end system testing of service fulfilment Telecom OSS/BSS/NMS/EMS stack comprising of 11 different components
+- Analyzing client business requirement, design documents
+- Preparing and getting sign-off for Test Plan, high level test scenarios, test conditions, regression scenarios, execution tracking, defect tracking and resolution along with multiple reporting
+- Tracking the project execution in terms of efforts
+- Coordination between 7 different project under same Independent Development Unit spanning across 3 locations comprising 200 team members
+- Helping the senior management in quality management and assurance of product
+- Guiding test team to execute the test scenarios
+- Participate in defect review meetings and work with development engineers
+- User acceptance testing support
+- Post go live product support from offshore
+- Defect Tracking in HP QC, JIRA
+- Liaison with component test team / solution designers for the difficult testing issues and problems
+- Doing continuous system testing of Hewlett Packard developed NuNCAS OSS which is based on TeMIP platform
+- Document test progress & reports
+- Effort estimation
+- Keep track of Document version control and Change management control
+- Helping automation team in automating the test cases  
+
+#### 4. Media Convergence Node In-charge, Junagadh, Gujarat  
+##### From: June 2004   To: August 2006  
+- Operation & Maintenance, Integration testing of Optical/MW Transmission equipments from vendors namely Nortel, NEC, Alcatel and Marconi
+- Network element Integration and commissioning of the Nortel SDH transmission equipments 
+- Conducting various Acceptance tests like path protection, receiver port sensitivity, NE visibility aspects, NE integration, stability etc. after installation for SDH/PDH for equipment validation as well as installation validation for optical/MW media 
+- Testing/validation, Integration, Configuration, Provisioning, software up-gradation, Troubleshooting of Line cards etc. 
+- Conducting primary hardware failure analysis after fault before sending the same to the vendor through various primary test cases. 
+- Consults with hardware and software engineering staff at NHQ to identify and document functional interfaces and requirements to perform operational and performance testing at the module and overall system levels. 
+- Transmission Acceptance Testing at Point of Interconnectivity with other service providers and performing tests like copper cable loss measurement, Return loss measurement, BER testing at 0, +/- 50 ppm, max. Tolerable jitter input/output tests and pulse mask test. 
+- Implementation of ISO 9001:2000 in the Transmission Department according to the ISO procedures and record formats in Rajkot Cluster and achieving the certificate for the same for Reliance Infocom  
+- Microwave Link Survey & Implementation 
+- Maintenance of Fiber on FMS - Agilent technologies, Logistics on SAP 
+- Alarm monitoring on Clarity OSS
