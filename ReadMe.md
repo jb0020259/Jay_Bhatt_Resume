@@ -1,9 +1,9 @@
 ### Contact
 Jay Bhatt  
-[+91 844 636 5003](http://wa.me/918446365003)  
-[jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
-[Linked In](https://www.linkedin.com/in/jaybbhatt/)  
-Pune, MH, India 
+Mobile - [+91 844 636 5003](http://wa.me/918446365003)  
+Email - [jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
+Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
+Location - Pune, MH, India 
 
 ### Objective  
 I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
@@ -14,27 +14,29 @@ Electronics & Communications (Throughout Distinction) (>70%)
 Nirma Institute of Technology, Ahmedabad - Gujarat University  
 
 ### Domain experience
-Data Analytics  
-Business Intelligence  
-Reporting  
-Identity & Access Management  
-Licensing  
-Telecom  
-(Open for other domains)  
+- Data Analytics  
+- Business Intelligence  
+- Reporting  
+- Identity & Access Management  
+- Licensing  
+- Telecom  
+- (Open for other domains)  
 
 ### Skills
-Data Analytics / BI / Reporting           ##########  
-Excel / Tableau / Sisense / Power BI      #########  
-SQL / R                                   #######  
-AWS / Cloud applications                  #########  
-REST API                                  ######  
-Agile/SAFe                                #########  
-Requirement Management                    ##########  
-Presentation                              ##########  
-Quick Learning                            ########## 
-Problem Solving                           ######### 
-Business Acumen                           ########## 
-Collaboration                             #########
+Skill | Proficiency Level
+-----------------------------------------|-----------
+Data Analytics / BI / Reporting           |##########
+Excel / Tableau / Sisense / Power BI      |#########  
+SQL / R                                   |#######  
+AWS / Cloud applications                  |#########  
+REST API                                  |######  
+Agile/SAFe                                |#########  
+Requirement Management                    |##########  
+Presentation                              |##########  
+Quick Learning                            |########## 
+Problem Solving                           |######### 
+Business Acumen                           |########## 
+Collaboration                             |#########
 
 ### Professional Certification
 Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
