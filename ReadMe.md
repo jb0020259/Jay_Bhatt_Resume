@@ -1,12 +1,12 @@
 ### 1. Contact
-Jay Bhatt  
+**Jay Bhatt**  
 Mobile - +91 844 636 5003 [Whatsapp](http://wa.me/918446365003)  
 Email - [jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
 Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
 Location - [Pune, MH, India](https://www.google.co.in/maps/place/Pune,+Maharashtra/@18.5245649,73.7228775,11z)
 
 ### 2. Objective  
-I am *scrum certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
+I am **scrum certified software product owner** with more than **16 years of total experience**. I am looking for an exciting opportunity as a **Product Manager** where I can utilize my techno-functional skills in _**data analytics, visualization and reporting**_.
 
 ### 3. Education  
 **Bachelor of Engineering**  
@@ -24,7 +24,7 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 
 ### 5. Skills
 
-| Skill                                | Proficiency Level |  
+| **Skill**                            | **Proficiency Level** |  
 |--------------------------------------|-------------------|  
 | Data Analytics / BI / Reporting      | ##########        |  
 | Excel / Tableau / Sisense / Power BI | #########         |  
@@ -40,22 +40,22 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 | Collaboration                        | #########         |  
 
 ### 6. Professional Certification
-Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
-Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com/badges/1c5aa060-49b6-4103-ae20-45e99eb9d13e/linked_in)
+**Google Data Analytics Professional Certificate**, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
+**Professional Scrum Product Owner**, Scrum.org [Verify Here](https://www.credly.com/badges/1c5aa060-49b6-4103-ae20-45e99eb9d13e/linked_in)
 
 ### 7. Work experience  
 #### 7.1 Product Owner, EXFO, Pune  
 #### From: June 2015   To: Till Date  
-- Design, develop and support data dashboards and reporting solutions to meet the business needs
-- Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
-- Review and share the dashboards/reports in PDF/Excel/HTML formats with stakeholders.
-- Deliver on real-time operational dashboards that project meaningful and actionable KPIs and Business Insights
+- **Design, develop and support data dashboards** and reporting solutions to meet the business needs
+- Use various meachnism **(Excel, Tableau, Sisense, SQL, In house tools)** to **sort, filter, join, transform, combine** various data sources and create various calculated fields.
+- Deliver on real-time operational dashboards that project meaningful and **actionable KPIs** and **business insights**
+- Review and share the dashboards/reports in **PDF/Excel/HTML** formats with stakeholders.
 - Write functional requirements for ETL (extract, transform and load) script to automate frequent data collection and reporting processes 
-- Discuss with business users to understand their analytical needs and help document Business Requirements Documents and prioritize requirements.
+- Discuss with business users to **understand their analytical needs** and help **document Business Requirements** Documents and prioritize requirements.
 - Work in partnership with other data and automation teams to ensure compatibility around solutions;
-- Documenting Functional/Non Functional Business Requirements and maintaining the product requirements backlog in Git, Dev Azure, IBM DOORS, Test link and JIRA.
-- Subject Matter Expert for the EXFO Connect / TestFlow Analytics Product which is a cloud hosted enterprise grade Business Intelligence applications.
-- Active participation in rapid prototyping proof-of-concept to design and subsequently validate product requirements
+- Documenting Functional/Non Functional Business Requirements and maintaining the product requirements backlog in **Git, Dev Azure, IBM DOORS, Test link and JIRA**.
+- **Subject Matter Expert** for the EXFO Connect / TestFlow Analytics Product which is a cloud hosted enterprise grade Business Intelligence applications.
+- Active participation in **rapid prototyping proof-of-concept** to design and subsequently validate product requirements
 - Participate in feasibility studies and high level architectural assessments and estimation
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
 
