@@ -31,7 +31,7 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
 
 #### 2. Quality Assurance Lead, EXFO, Pune  
-#### From: July 2011   To: June 2015  
+##### From: July 2011   To: June 2015  
 - Responsible for overall quality of the EXFO Connect a cloud based PaaS product
 - Leading the team of independent team members doing functional and non-functional testing
 - Leading the Test Automation efforts
