@@ -1,6 +1,6 @@
 ### 1. Contact
 Jay Bhatt  
-Mobile - [+91 844 636 5003](http://wa.me/918446365003)  
+Mobile - +91 844 636 5003 [Whatsapp](http://wa.me/918446365003)  
 Email - [jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
 Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
 Location - [Pune, MH, India](https://www.google.co.in/maps/place/Pune,+Maharashtra/@18.5245649,73.7228775,11z)
