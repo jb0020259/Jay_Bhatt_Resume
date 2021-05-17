@@ -47,6 +47,8 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 ### 7. Work experience  
 #### 7.1 Product Owner, EXFO, Pune  
 #### From: June 2015   To: Till Date  
+
+**Domain – Data Analytics, Business Intelligence, Reporting**
 - **Design, develop and support data dashboards** and reporting solutions to meet the business needs
 - Use various meachnism **(Excel, Tableau, Sisense, SQL, In house tools)** to **sort, filter, join, transform, combine** various data sources and create various calculated fields.
 - Deliver on real-time operational dashboards that project meaningful and **actionable KPIs** and **business insights**
@@ -59,6 +61,21 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 - Active participation in **rapid prototyping proof-of-concept** to design and subsequently validate product requirements
 - Participate in feasibility studies and high level architectural assessments and estimation
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
+
+**Domain – Identity & Access Management (IDaaS), Licensing, Cloud SaaS Applications, Digital Transformation**
+- Act as a product owner of common authentication and licensing components in EXFO
+- Understand and document authentication and access management needs for various EXFO products and implement them using 3rd party IAM tool WSO2 IDP
+- Understand and document licensing / subscription needs for various EXFO products and materialize them using 3rd party licensing solution FLEXERA (Now REVENERA)
+- Envisage customer on-boarding experience (User signup / registration, Login, Forgot Password, multi factor authentication, social login, adaptive authentication, logout)
+- Create, maintain, and prioritize the product backlogs (EPIC, Features, User Stories)
+- Creating user flow diagrams using MIRO, UXPin tool, produce feature presentations
+- Implement the latest security guidelines to protect the customer privacy (GDPR)
+- Identify the scaling (performance) needs and help in validating the same
+- Participate in product demo as a product owner in a scrum team
+- Accept and release the functionality to production
+- Train product sales and support team members on product features
+- Capture customer feedback and prioritize them in the product backlog
+
 
 #### 7.2 Quality Assurance Lead, EXFO, Pune  
 ##### From: July 2011   To: June 2015  
