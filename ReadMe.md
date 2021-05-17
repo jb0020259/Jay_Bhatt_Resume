@@ -1,4 +1,5 @@
-# Jay Bhatt
-Product Owner
-Total Experience - 16+ years
+# Contact Details
+Jay Bhatt
+Pune, MH, India
++91 844 636 5003
  
