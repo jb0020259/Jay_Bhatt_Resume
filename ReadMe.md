@@ -1,19 +1,19 @@
-### Contact
+### 1. Contact
 Jay Bhatt  
 Mobile - [+91 844 636 5003](http://wa.me/918446365003)  
 Email - [jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
 Linked In - [Profile Link](https://www.linkedin.com/in/jaybbhatt/)  
 Location - [Pune, MH, India](https://www.google.co.in/maps/place/Pune,+Maharashtra/@18.5245649,73.7228775,11z)
 
-### Objective  
+### 2. Objective  
 I am *scrum certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
-### Education  
+### 3. Education  
 **Bachelor of Engineering**  
 Electronics & Communications (Throughout Distinction) (>70%)  
 Nirma Institute of Technology, Ahmedabad - Gujarat University  
 
-### Domain experience
+### 4. Domain experience
 - Data Analytics  
 - Business Intelligence  
 - Reporting  
@@ -22,7 +22,7 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 - Telecom  
 - (Open for other domains)  
 
-### Skills
+### 5. Skills
 Skill | Proficiency Level  
 ---------------------------------------- | ----------  
 Data Analytics / BI / Reporting           | ##########  
@@ -38,12 +38,12 @@ Problem Solving                           | #########
 Business Acumen                           | ##########  
 Collaboration                             | #########  
 
-### Professional Certification
+### 6. Professional Certification
 Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
 Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com/badges/1c5aa060-49b6-4103-ae20-45e99eb9d13e/linked_in)
 
-### Work experience  
-#### 1. Product Owner, EXFO, Pune  
+### 7. Work experience  
+#### 7.1 Product Owner, EXFO, Pune  
 #### From: June 2015   To: Till Date  
 - Design, develop and support data dashboards and reporting solutions to meet the business needs
 - Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
@@ -58,7 +58,7 @@ Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com
 - Participate in feasibility studies and high level architectural assessments and estimation
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
 
-#### 2. Quality Assurance Lead, EXFO, Pune  
+#### 7.2 Quality Assurance Lead, EXFO, Pune  
 ##### From: July 2011   To: June 2015  
 - Responsible for overall quality of the EXFO Connect a cloud based PaaS product
 - Leading the team of independent team members doing functional and non-functional testing
@@ -68,7 +68,7 @@ Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com
 - Preparing the test efforts evaluation and overlooking the test execution
 - Certifying the overall product quality before all customer releases
 
-#### 3. Quality Assurance Lead, Tech Mahindra Ltd., Bangalore  
+#### 7.3 Quality Assurance Lead, Tech Mahindra Ltd., Bangalore  
 #### From: August 2006   To: June 2011
 - Leading a team of 39 members doing end to end system testing of service fulfilment Telecom OSS/BSS/NMS/EMS stack comprising of 11 different components
 - Analyzing client business requirement, design documents
@@ -88,7 +88,7 @@ Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com
 - Keep track of Document version control and Change management control
 - Helping automation team in automating the test cases  
 
-#### 4. Media Convergence Node In-charge, Junagadh, Gujarat  
+#### 7.4 Media Convergence Node In-charge, Junagadh, Gujarat  
 #### From: June 2004   To: August 2006  
 - Operation & Maintenance, Integration testing of Optical/MW Transmission equipments from vendors namely Nortel, NEC, Alcatel and Marconi
 - Network element Integration and commissioning of the Nortel SDH transmission equipments 
@@ -102,7 +102,7 @@ Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com
 - Maintenance of Fiber on FMS - Agilent technologies, Logistics on SAP 
 - Alarm monitoring on Clarity OSS
 
-### Achievements
+### 8. Achievements
 - Promoted to Senior System Analyst role due to outstanding contribution in conceptualizing a special custom business analytics product 
 - Multiple awards for the valuable contribution made in evolving the cloud Enterprise Application product EXFO Connect at EXFO  
 - Special Thank You award for the first cloud product delivery in EXFO 
@@ -112,18 +112,18 @@ Professional Scrum Product Owner, Scrum.org [Verify Here](https://www.credly.com
 - Special Award for excellent contribution to the NuNCAS Component Integration Testing project & Starhub E2E Testing Project in Tech Mahindra 
 - Highly appraised for off shoring the project in very short time period under high pressure in Tech Mahindra
 
-### Languages Spoken  
+### 9. Languages Spoken  
 English  
 Hindi  
 Gujarati  
 
-### Interests  
+### 10. Interests  
 Data Anlytics  
 Visualization  
 Business Value Investing  
 
-### Notice
+### 11. Notice
 2 Months
 
-### Reference
+### 12. Reference
 Available on request
