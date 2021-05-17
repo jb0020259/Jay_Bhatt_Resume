@@ -1,4 +1,4 @@
-### Contact Details
+### Contact
 Jay Bhatt  
 Mobile    - +91 844 636 5003  
 Email     - jai.bhatt@gmail.com   
@@ -9,7 +9,7 @@ Location   - Pune, MH, India
 I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
 ### Education  
-Bachelor of Engineering  
+**Bachelor of Engineering**
 Electronics & Communications (Throughout Distinction) (>70%)  
 Nirma Institute of Technology, Ahmedabad - Gujarat University  
 
@@ -28,7 +28,7 @@ Year 2017 - Professional Scrum Product Owner, Scrum.org [Verify Here](https://ww
 
 ### Work experience  
 #### 1. Product Owner, EXFO, Pune  
-**From: June 2015   To: Till Date**  
+#### From: June 2015   To: Till Date  
 - Design, develop and support data dashboards and reporting solutions to meet the business needs
 - Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
 - Review and share the dashboards/reports in PDF/Excel/HTML formats with stakeholders.
