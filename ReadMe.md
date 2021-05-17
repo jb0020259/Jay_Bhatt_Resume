@@ -1,16 +1,16 @@
-### Contact Me
+### Contact Details
 Jay Bhatt  
-Location   - Pune, MH, India  
 Mobile    - +91 844 636 5003  
 Email     - jai.bhatt@gmail.com   
 Linked In - https://www.linkedin.com/in/jaybbhatt/  
-  
+Location   - Pune, MH, India 
+
 ### Resume objective  
 I am scrum *certified software product owner* with more than 16 years of total experience. I am looking for an exciting opportunity as a Product Manager where I can utilize my techno-functional skills in data analytics, visualization and reporting.
 
 ### Work experience  
 #### 1. Product Owner, EXFO, Pune  
-##### From: June 2015   To: Till Date  
+#### From: June 2015   To: Till Date  
 - Design, develop and support data dashboards and reporting solutions to meet the business needs
 - Use SQL/Tool capabilities (Excel, Tableau, Sisense, In house tools) to sort, filter, join, transform various data sources and analyze the data to extract the business insights.
 - Review and share the dashboards/reports in PDF/Excel/HTML formats with stakeholders.
@@ -25,7 +25,7 @@ I am scrum *certified software product owner* with more than 16 years of total e
 - Create and deliver system requirements specification work products in a clear and concise form (databases, documents, presentations)  
 
 #### 2. Quality Assurance Lead, EXFO, Pune  
-##### From: July 2011   To: June 2015  
+#### From: July 2011   To: June 2015  
 - Responsible for overall quality of the EXFO Connect a cloud based PaaS product
 - Leading the team of independent team members doing functional and non-functional testing
 - Leading the Test Automation efforts
@@ -35,7 +35,7 @@ I am scrum *certified software product owner* with more than 16 years of total e
 - Certifying the overall product quality before all customer releases
 
 #### 3. Quality Assurance Lead, Tech Mahindra Ltd., Bangalore  
-##### From: August 2006   To: June 2011
+#### From: August 2006   To: June 2011
 - Leading a team of 39 members doing end to end system testing of service fulfilment Telecom OSS/BSS/NMS/EMS stack comprising of 11 different components
 - Analyzing client business requirement, design documents
 - Preparing and getting sign-off for Test Plan, high level test scenarios, test conditions, regression scenarios, execution tracking, defect tracking and resolution along with multiple reporting
@@ -55,7 +55,7 @@ I am scrum *certified software product owner* with more than 16 years of total e
 - Helping automation team in automating the test cases  
 
 #### 4. Media Convergence Node In-charge, Junagadh, Gujarat  
-##### From: June 2004   To: August 2006  
+#### From: June 2004   To: August 2006  
 - Operation & Maintenance, Integration testing of Optical/MW Transmission equipments from vendors namely Nortel, NEC, Alcatel and Marconi
 - Network element Integration and commissioning of the Nortel SDH transmission equipments 
 - Conducting various Acceptance tests like path protection, receiver port sensitivity, NE visibility aspects, NE integration, stability etc. after installation for SDH/PDH for equipment validation as well as installation validation for optical/MW media 
