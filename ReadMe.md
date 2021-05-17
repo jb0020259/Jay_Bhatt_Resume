@@ -17,10 +17,24 @@ Nirma Institute of Technology, Ahmedabad - Gujarat University
 Data Analytics  
 Business Intelligence  
 Reporting  
+Identity & Access Management  
+Licensing  
 Telecom  
 (Open for other domains)  
 
 ### Skills
+Data Analytics / BI / Reporting           ##########  
+Excel / Tableau / Sisense / Power BI      #########  
+SQL / R                                   #######  
+AWS / Cloud applications                  #########  
+REST API                                  ######  
+Agile/SAFe                                #########  
+Requirement Management                    ##########  
+Presentation                              ##########  
+Quick Learning                            ########## 
+Problem Solving                           ######### 
+Business Acumen                           ########## 
+Collaboration                             #########
 
 ### Professional Certification
 Year 2021 - Google Data Analytics Professional Certificate, Coursera [Verify Here](https://www.scrum.org/certificates/272860)
@@ -95,6 +109,16 @@ Year 2017 - Professional Scrum Product Owner, Scrum.org [Verify Here](https://ww
 - Awarded Valuable Team Player for NuNCAS CIT Project in Tech Mahindra 
 - Special Award for excellent contribution to the NuNCAS Component Integration Testing project & Starhub E2E Testing Project in Tech Mahindra 
 - Highly appraised for off shoring the project in very short time period under high pressure in Tech Mahindra
+
+### Languages Spoken  
+English  
+Hindi  
+Gujarati  
+
+### Interests  
+Data Anlytics  
+Visualization  
+Business Value Investing  
 
 ### Notice
 2 Months
