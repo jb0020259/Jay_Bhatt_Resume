@@ -1,7 +1,7 @@
 ### Contact
 Jay Bhatt  
-[+91 844 636 5003](http://wa.me/918446365003)
-[jai.bhatt@gmail.com](jai.bhatt@gmail.com)  
+[+91 844 636 5003](http://wa.me/918446365003)  
+[jai.bhatt@gmail.com](jai.bhatt@gmail.com)   
 [Linked In](https://www.linkedin.com/in/jaybbhatt/)  
 Pune, MH, India 
 
